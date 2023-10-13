@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad998&label=Profile%20views&color=0e75b6&style=flat" alt="prasad998" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prsadchaudhari" target="blank"><img src="https://img.shields.io/twitter/follow/prsadchaudhari?logo=twitter&style=for-the-badge" alt="prsadchaudhari" /></a> </p>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif)">
+<img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="390px" height="270px">
 - 🔭 I’m currently working on **Sentiment and Emotion Recognition**
 
 <h3 align="left">Connect with me:</h3>
