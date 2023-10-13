@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/D4D16AQHX9AQZgbBzRg/profile-displaybackgroundimage-shrink_350_1400/0/1694293312462?e=1702512000&v=beta&t=7O-eUG-cfsPBI5arb8dJ7pRabeHBvYiNXnb3ho8lB6s))]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.licdn.com/dms/image/D4D16AQHX9AQZgbBzRg/profile-displaybackgroundimage-shrink_350_1400/0/1694293312462?e=1702512000&v=beta&t=7O-eUG-cfsPBI5arb8dJ7pRabeHBvYiNXnb3ho8lB6s))](https://www.linkedin.com/in/prasad998/)
 
 <h1 align="center">Hey there 👋, I'm Prasad Chaudhari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
