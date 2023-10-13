@@ -7,7 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/prsadchaudhari" target="blank"><img src="https://img.shields.io/twitter/follow/prsadchaudhari?logo=twitter&style=for-the-badge" alt="prsadchaudhari" /></a> </p>
 <img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" alt="Coder GIF" width="390px" height="270px">
-- 🔭 I’m currently working on **Sentiment and Emotion Recognition**
+- I am a **MS Reseach Scholar at IIT Indore**.
+- I am currently working on **Deep Learning, NLP, Sentiment Analysis**.
+- I have worked as a **Software Engineer** and have worked for Backend Development and DevOps.
+- I like working together and contributing to **Open-Source Projects**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
